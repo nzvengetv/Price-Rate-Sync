@@ -11,9 +11,8 @@ Default Login:
     Username: *******
     Password: ******* (Contact the owner!)
 
-    📧 Email: tinovietlas@gmail.com
-
-
+ 📧 Email: tinovietlas@gmail.com
+ 
 ## Overview
 
 PriceSync is an intelligent automation system that synchronizes USD-to-ZWG exchange rates and automatically updates retail pricing in real-time. Built specifically for Zimbabwe's dynamic pricing environment, it provides a multi-source rate retrieval system with a professional Tkinter UI and robust database management.
