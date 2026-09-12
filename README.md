@@ -11,6 +11,8 @@ Default Login:
     Username: *******
     Password: ******* (Contact the owner!)
 
+    📧 Email: tinovietlas@gmail.com
+
 
 ## Overview
 
