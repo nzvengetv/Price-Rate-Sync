@@ -293,8 +293,8 @@ Contributions are welcome! Please:
 ## Support
 
 For issues, questions, or suggestions:
-- 📧 Email: rudo.muchadei@example.com
-- 📞 Phone: +263 78 530 1555
+- 📧 Email: tinovietlas@gmail.com
+- 📞 Phone: +263 78 474 6656
 - 🐛 GitHub Issues: [Create an issue](https://github.com/yourusername/pricesync-zw-usd/issues)
 
 ## Changelog
