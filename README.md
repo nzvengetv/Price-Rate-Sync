@@ -99,8 +99,8 @@ python pricesync_zw-usd.py
 ```
 
 **Default Login:**
-- Username: `admin`
-- Password: `admin` (change on first login!)
+- Username: `*******`
+- Password: `*******` (Contact the owner!)
 
 ## Usage Guide
 
