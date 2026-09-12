@@ -6,6 +6,12 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+Default Login:
+
+    Username: *******
+    Password: ******* (Contact the owner!)
+
+
 ## Overview
 
 PriceSync is an intelligent automation system that synchronizes USD-to-ZWG exchange rates and automatically updates retail pricing in real-time. Built specifically for Zimbabwe's dynamic pricing environment, it provides a multi-source rate retrieval system with a professional Tkinter UI and robust database management.
@@ -98,9 +104,6 @@ pip install -r requirements.txt
 python pricesync_zw-usd.py
 ```
 
-**Default Login:**
-- Username: `*******`
-- Password: `*******` (Contact the owner!)
 
 ## Usage Guide
 
